@@ -108,8 +108,8 @@ id: Maldives
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Maldives/
-markerFolder: ./Maldives/
+geojsonFolder: ./
+markerFolder: ./
 ```
 
 [name-en::Maldives] 
