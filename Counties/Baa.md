@@ -39,11 +39,18 @@ markerFolder: ./Baa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Maldives/Counties/Baa|Baa]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Baa.public|Baa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Baa.internal|Baa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Baa.protect|Baa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Baa.private|Baa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Baa.personal|Baa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Baa.secret|Baa.secret]] 
+
+### #is_/same_as :: [Baa](/_Standards/Earth/Continent/Asia/Asia~South/Maldives/Counties/Baa.md) 
+
+### #is_/same_as :: [Baa.public](/_public/Earth/Continent/Asia/Asia~South/Maldives/Counties/Baa.public.md) 
+
+### #is_/same_as :: [Baa.internal](/_internal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Baa.internal.md) 
+
+### #is_/same_as :: [Baa.protect](/_protect/Earth/Continent/Asia/Asia~South/Maldives/Counties/Baa.protect.md) 
+
+### #is_/same_as :: [Baa.private](/_private/Earth/Continent/Asia/Asia~South/Maldives/Counties/Baa.private.md) 
+
+### #is_/same_as :: [Baa.personal](/_personal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Baa.personal.md) 
+
+### #is_/same_as :: [Baa.secret](/_secret/Earth/Continent/Asia/Asia~South/Maldives/Counties/Baa.secret.md)
 

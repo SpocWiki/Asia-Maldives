@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Maldives/City/Malé|Malé]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Maldives/City/Malé.public|Malé.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/City/Malé.internal|Malé.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/City/Malé.protect|Malé.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Maldives/City/Malé.private|Malé.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/City/Malé.personal|Malé.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/City/Malé.secret|Malé.secret]] 
+
+### #is_/same_as :: [Malé](/_Standards/Earth/Continent/Asia/Asia~South/Maldives/Counties/Malé/City/Malé.md) 
+
+### #is_/same_as :: [Malé.public](/_public/Earth/Continent/Asia/Asia~South/Maldives/Counties/Malé/City/Malé.public.md) 
+
+### #is_/same_as :: [Malé.internal](/_internal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Malé/City/Malé.internal.md) 
+
+### #is_/same_as :: [Malé.protect](/_protect/Earth/Continent/Asia/Asia~South/Maldives/Counties/Malé/City/Malé.protect.md) 
+
+### #is_/same_as :: [Malé.private](/_private/Earth/Continent/Asia/Asia~South/Maldives/Counties/Malé/City/Malé.private.md) 
+
+### #is_/same_as :: [Malé.personal](/_personal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Malé/City/Malé.personal.md) 
+
+### #is_/same_as :: [Malé.secret](/_secret/Earth/Continent/Asia/Asia~South/Maldives/Counties/Malé/City/Malé.secret.md)
+

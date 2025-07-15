@@ -40,11 +40,18 @@ markerFolder: ./Vaavu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Maldives/Counties/Vaavu|Vaavu]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.public|Vaavu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.internal|Vaavu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.protect|Vaavu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.private|Vaavu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.personal|Vaavu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.secret|Vaavu.secret]] 
+
+### #is_/same_as :: [Vaavu](/_Standards/Earth/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.md) 
+
+### #is_/same_as :: [Vaavu.public](/_public/Earth/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.public.md) 
+
+### #is_/same_as :: [Vaavu.internal](/_internal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.internal.md) 
+
+### #is_/same_as :: [Vaavu.protect](/_protect/Earth/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.protect.md) 
+
+### #is_/same_as :: [Vaavu.private](/_private/Earth/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.private.md) 
+
+### #is_/same_as :: [Vaavu.personal](/_personal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.personal.md) 
+
+### #is_/same_as :: [Vaavu.secret](/_secret/Earth/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.secret.md)
 

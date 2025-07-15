@@ -40,11 +40,18 @@ markerFolder: ./Malé/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Maldives/Counties/Malé|Malé]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Malé.public|Malé.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Malé.internal|Malé.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Malé.protect|Malé.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Malé.private|Malé.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Malé.personal|Malé.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Malé.secret|Malé.secret]] 
+
+### #is_/same_as :: [Malé](/_Standards/Earth/Continent/Asia/Asia~South/Maldives/Counties/Malé.md) 
+
+### #is_/same_as :: [Malé.public](/_public/Earth/Continent/Asia/Asia~South/Maldives/Counties/Malé.public.md) 
+
+### #is_/same_as :: [Malé.internal](/_internal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Malé.internal.md) 
+
+### #is_/same_as :: [Malé.protect](/_protect/Earth/Continent/Asia/Asia~South/Maldives/Counties/Malé.protect.md) 
+
+### #is_/same_as :: [Malé.private](/_private/Earth/Continent/Asia/Asia~South/Maldives/Counties/Malé.private.md) 
+
+### #is_/same_as :: [Malé.personal](/_personal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Malé.personal.md) 
+
+### #is_/same_as :: [Malé.secret](/_secret/Earth/Continent/Asia/Asia~South/Maldives/Counties/Malé.secret.md)
 

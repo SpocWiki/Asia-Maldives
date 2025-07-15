@@ -40,11 +40,18 @@ markerFolder: ./Gaafu_Alifu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Alifu|Gaafu_Alifu]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Alifu.public|Gaafu_Alifu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Alifu.internal|Gaafu_Alifu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Alifu.protect|Gaafu_Alifu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Alifu.private|Gaafu_Alifu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Alifu.personal|Gaafu_Alifu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Alifu.secret|Gaafu_Alifu.secret]] 
+
+### #is_/same_as :: [Gaafu_Alifu](/_Standards/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Alifu.md) 
+
+### #is_/same_as :: [Gaafu_Alifu.public](/_public/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Alifu.public.md) 
+
+### #is_/same_as :: [Gaafu_Alifu.internal](/_internal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Alifu.internal.md) 
+
+### #is_/same_as :: [Gaafu_Alifu.protect](/_protect/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Alifu.protect.md) 
+
+### #is_/same_as :: [Gaafu_Alifu.private](/_private/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Alifu.private.md) 
+
+### #is_/same_as :: [Gaafu_Alifu.personal](/_personal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Alifu.personal.md) 
+
+### #is_/same_as :: [Gaafu_Alifu.secret](/_secret/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Alifu.secret.md)
 

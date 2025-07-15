@@ -129,10 +129,4 @@ Capital :: [[Maldives/Counties/Malé/City/Malé]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Maldives|Maldives]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~South/Maldives.internal|Maldives.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~South/Maldives.protect|Maldives.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~South/Maldives.private|Maldives.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~South/Maldives.personal|Maldives.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~South/Maldives.secret|Maldives.secret]] 
+

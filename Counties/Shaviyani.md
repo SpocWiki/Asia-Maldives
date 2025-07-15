@@ -40,11 +40,18 @@ markerFolder: ./Shaviyani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani|Shaviyani]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.public|Shaviyani.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.internal|Shaviyani.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.protect|Shaviyani.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.private|Shaviyani.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.personal|Shaviyani.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.secret|Shaviyani.secret]] 
+
+### #is_/same_as :: [Shaviyani](/_Standards/Earth/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.md) 
+
+### #is_/same_as :: [Shaviyani.public](/_public/Earth/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.public.md) 
+
+### #is_/same_as :: [Shaviyani.internal](/_internal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.internal.md) 
+
+### #is_/same_as :: [Shaviyani.protect](/_protect/Earth/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.protect.md) 
+
+### #is_/same_as :: [Shaviyani.private](/_private/Earth/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.private.md) 
+
+### #is_/same_as :: [Shaviyani.personal](/_personal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.personal.md) 
+
+### #is_/same_as :: [Shaviyani.secret](/_secret/Earth/Continent/Asia/Asia~South/Maldives/Counties/Shaviyani.secret.md)
 

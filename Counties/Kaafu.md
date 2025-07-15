@@ -40,11 +40,18 @@ markerFolder: ./Kaafu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Maldives/Counties/Kaafu|Kaafu]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Maldives/Counties/Kaafu.public|Kaafu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Maldives/Counties/Kaafu.internal|Kaafu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Maldives/Counties/Kaafu.protect|Kaafu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Maldives/Counties/Kaafu.private|Kaafu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Maldives/Counties/Kaafu.personal|Kaafu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Maldives/Counties/Kaafu.secret|Kaafu.secret]] 
+
+### #is_/same_as :: [Kaafu](/_Standards/Earth/Continent/Asia/Asia~South/Maldives/Counties/Kaafu.md) 
+
+### #is_/same_as :: [Kaafu.public](/_public/Earth/Continent/Asia/Asia~South/Maldives/Counties/Kaafu.public.md) 
+
+### #is_/same_as :: [Kaafu.internal](/_internal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Kaafu.internal.md) 
+
+### #is_/same_as :: [Kaafu.protect](/_protect/Earth/Continent/Asia/Asia~South/Maldives/Counties/Kaafu.protect.md) 
+
+### #is_/same_as :: [Kaafu.private](/_private/Earth/Continent/Asia/Asia~South/Maldives/Counties/Kaafu.private.md) 
+
+### #is_/same_as :: [Kaafu.personal](/_personal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Kaafu.personal.md) 
+
+### #is_/same_as :: [Kaafu.secret](/_secret/Earth/Continent/Asia/Asia~South/Maldives/Counties/Kaafu.secret.md)
 
