@@ -1,30 +1,29 @@
 ---
-location: [ 5.28 , 73.58 ] 
+location:
+  - 5.28
+  - 73.58
 type: geo-Region
 title: Lhaviyani
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Lhaviyani
-
+  - Lhaviyani
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Lhaviyani
