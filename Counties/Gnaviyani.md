@@ -40,17 +40,17 @@ markerFolder: ./Gnaviyani/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gnaviyani](/_Standards/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gnaviyani.md) 
+### #is_/same_as :: [Gnaviyani](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Gnaviyani.md) 
 
-### #is_/same_as :: [Gnaviyani.public](/_public/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gnaviyani.public.md) 
+### #is_/same_as :: [Gnaviyani.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Gnaviyani.public.md) 
 
-### #is_/same_as :: [Gnaviyani.internal](/_internal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gnaviyani.internal.md) 
+### #is_/same_as :: [Gnaviyani.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Gnaviyani.internal.md) 
 
-### #is_/same_as :: [Gnaviyani.protect](/_protect/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gnaviyani.protect.md) 
+### #is_/same_as :: [Gnaviyani.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Gnaviyani.protect.md) 
 
-### #is_/same_as :: [Gnaviyani.private](/_private/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gnaviyani.private.md) 
+### #is_/same_as :: [Gnaviyani.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Gnaviyani.private.md) 
 
-### #is_/same_as :: [Gnaviyani.personal](/_personal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gnaviyani.personal.md) 
+### #is_/same_as :: [Gnaviyani.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Gnaviyani.personal.md) 
 
-### #is_/same_as :: [Gnaviyani.secret](/_secret/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gnaviyani.secret.md)
+### #is_/same_as :: [Gnaviyani.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Gnaviyani.secret.md)
 

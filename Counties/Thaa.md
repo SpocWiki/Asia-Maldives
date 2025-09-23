@@ -40,17 +40,17 @@ markerFolder: ./Thaa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thaa](/_Standards/Earth/Continent/Asia/Asia~South/Maldives/Counties/Thaa.md) 
+### #is_/same_as :: [Thaa](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Thaa.md) 
 
-### #is_/same_as :: [Thaa.public](/_public/Earth/Continent/Asia/Asia~South/Maldives/Counties/Thaa.public.md) 
+### #is_/same_as :: [Thaa.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Thaa.public.md) 
 
-### #is_/same_as :: [Thaa.internal](/_internal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Thaa.internal.md) 
+### #is_/same_as :: [Thaa.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Thaa.internal.md) 
 
-### #is_/same_as :: [Thaa.protect](/_protect/Earth/Continent/Asia/Asia~South/Maldives/Counties/Thaa.protect.md) 
+### #is_/same_as :: [Thaa.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Thaa.protect.md) 
 
-### #is_/same_as :: [Thaa.private](/_private/Earth/Continent/Asia/Asia~South/Maldives/Counties/Thaa.private.md) 
+### #is_/same_as :: [Thaa.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Thaa.private.md) 
 
-### #is_/same_as :: [Thaa.personal](/_personal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Thaa.personal.md) 
+### #is_/same_as :: [Thaa.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Thaa.personal.md) 
 
-### #is_/same_as :: [Thaa.secret](/_secret/Earth/Continent/Asia/Asia~South/Maldives/Counties/Thaa.secret.md)
+### #is_/same_as :: [Thaa.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Thaa.secret.md)
 

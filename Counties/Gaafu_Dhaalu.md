@@ -40,17 +40,17 @@ markerFolder: ./Gaafu_Dhaalu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gaafu_Dhaalu](/_Standards/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Dhaalu.md) 
+### #is_/same_as :: [Gaafu_Dhaalu](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Gaafu_Dhaalu.md) 
 
-### #is_/same_as :: [Gaafu_Dhaalu.public](/_public/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Dhaalu.public.md) 
+### #is_/same_as :: [Gaafu_Dhaalu.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Gaafu_Dhaalu.public.md) 
 
-### #is_/same_as :: [Gaafu_Dhaalu.internal](/_internal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Dhaalu.internal.md) 
+### #is_/same_as :: [Gaafu_Dhaalu.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Gaafu_Dhaalu.internal.md) 
 
-### #is_/same_as :: [Gaafu_Dhaalu.protect](/_protect/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Dhaalu.protect.md) 
+### #is_/same_as :: [Gaafu_Dhaalu.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Gaafu_Dhaalu.protect.md) 
 
-### #is_/same_as :: [Gaafu_Dhaalu.private](/_private/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Dhaalu.private.md) 
+### #is_/same_as :: [Gaafu_Dhaalu.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Gaafu_Dhaalu.private.md) 
 
-### #is_/same_as :: [Gaafu_Dhaalu.personal](/_personal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Dhaalu.personal.md) 
+### #is_/same_as :: [Gaafu_Dhaalu.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Gaafu_Dhaalu.personal.md) 
 
-### #is_/same_as :: [Gaafu_Dhaalu.secret](/_secret/Earth/Continent/Asia/Asia~South/Maldives/Counties/Gaafu_Dhaalu.secret.md)
+### #is_/same_as :: [Gaafu_Dhaalu.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Gaafu_Dhaalu.secret.md)
 

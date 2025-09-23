@@ -40,17 +40,17 @@ markerFolder: ./Haa_Dhaalu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Haa_Dhaalu](/_Standards/Earth/Continent/Asia/Asia~South/Maldives/Counties/Haa_Dhaalu.md) 
+### #is_/same_as :: [Haa_Dhaalu](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Haa_Dhaalu.md) 
 
-### #is_/same_as :: [Haa_Dhaalu.public](/_public/Earth/Continent/Asia/Asia~South/Maldives/Counties/Haa_Dhaalu.public.md) 
+### #is_/same_as :: [Haa_Dhaalu.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Haa_Dhaalu.public.md) 
 
-### #is_/same_as :: [Haa_Dhaalu.internal](/_internal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Haa_Dhaalu.internal.md) 
+### #is_/same_as :: [Haa_Dhaalu.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Haa_Dhaalu.internal.md) 
 
-### #is_/same_as :: [Haa_Dhaalu.protect](/_protect/Earth/Continent/Asia/Asia~South/Maldives/Counties/Haa_Dhaalu.protect.md) 
+### #is_/same_as :: [Haa_Dhaalu.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Haa_Dhaalu.protect.md) 
 
-### #is_/same_as :: [Haa_Dhaalu.private](/_private/Earth/Continent/Asia/Asia~South/Maldives/Counties/Haa_Dhaalu.private.md) 
+### #is_/same_as :: [Haa_Dhaalu.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Haa_Dhaalu.private.md) 
 
-### #is_/same_as :: [Haa_Dhaalu.personal](/_personal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Haa_Dhaalu.personal.md) 
+### #is_/same_as :: [Haa_Dhaalu.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Haa_Dhaalu.personal.md) 
 
-### #is_/same_as :: [Haa_Dhaalu.secret](/_secret/Earth/Continent/Asia/Asia~South/Maldives/Counties/Haa_Dhaalu.secret.md)
+### #is_/same_as :: [Haa_Dhaalu.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Haa_Dhaalu.secret.md)
 

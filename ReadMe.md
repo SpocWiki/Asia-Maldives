@@ -117,11 +117,11 @@ markerFolder: ./
 [Area-Land::300] 
 Continent :: [[Asia]]  
 [VehicleCode::MV] 
-Capital :: [[Maldives/Counties/Malé/City/Malé]]  
-![[Maldives/Emblem_of_Maldives.svg|350]]  
+Capital :: [[Counties/Malé/City/Malé]]  
+![[Emblem_of_Maldives.svg|350]]  
 
 ![[Anthem-Maldives.mp3]] 
-![[Maldives/Flag_of_Maldives.svg|350]]  
+![[Flag_of_Maldives.svg|350]]  
 
 [Alcohol-l::0.8] 
 [Language-Id::] 

@@ -40,17 +40,17 @@ markerFolder: ./Vaavu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vaavu](/_Standards/Earth/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.md) 
+### #is_/same_as :: [Vaavu](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Vaavu.md) 
 
-### #is_/same_as :: [Vaavu.public](/_public/Earth/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.public.md) 
+### #is_/same_as :: [Vaavu.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Vaavu.public.md) 
 
-### #is_/same_as :: [Vaavu.internal](/_internal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.internal.md) 
+### #is_/same_as :: [Vaavu.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Vaavu.internal.md) 
 
-### #is_/same_as :: [Vaavu.protect](/_protect/Earth/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.protect.md) 
+### #is_/same_as :: [Vaavu.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Vaavu.protect.md) 
 
-### #is_/same_as :: [Vaavu.private](/_private/Earth/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.private.md) 
+### #is_/same_as :: [Vaavu.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Vaavu.private.md) 
 
-### #is_/same_as :: [Vaavu.personal](/_personal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.personal.md) 
+### #is_/same_as :: [Vaavu.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Vaavu.personal.md) 
 
-### #is_/same_as :: [Vaavu.secret](/_secret/Earth/Continent/Asia/Asia~South/Maldives/Counties/Vaavu.secret.md)
+### #is_/same_as :: [Vaavu.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Vaavu.secret.md)
 

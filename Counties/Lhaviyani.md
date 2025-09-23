@@ -40,17 +40,17 @@ markerFolder: ./Lhaviyani/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lhaviyani](/_Standards/Earth/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.md) 
+### #is_/same_as :: [Lhaviyani](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Lhaviyani.md) 
 
-### #is_/same_as :: [Lhaviyani.public](/_public/Earth/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.public.md) 
+### #is_/same_as :: [Lhaviyani.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Lhaviyani.public.md) 
 
-### #is_/same_as :: [Lhaviyani.internal](/_internal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.internal.md) 
+### #is_/same_as :: [Lhaviyani.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Lhaviyani.internal.md) 
 
-### #is_/same_as :: [Lhaviyani.protect](/_protect/Earth/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.protect.md) 
+### #is_/same_as :: [Lhaviyani.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Lhaviyani.protect.md) 
 
-### #is_/same_as :: [Lhaviyani.private](/_private/Earth/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.private.md) 
+### #is_/same_as :: [Lhaviyani.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Lhaviyani.private.md) 
 
-### #is_/same_as :: [Lhaviyani.personal](/_personal/Earth/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.personal.md) 
+### #is_/same_as :: [Lhaviyani.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Lhaviyani.personal.md) 
 
-### #is_/same_as :: [Lhaviyani.secret](/_secret/Earth/Continent/Asia/Asia~South/Maldives/Counties/Lhaviyani.secret.md)
+### #is_/same_as :: [Lhaviyani.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Lhaviyani.secret.md)
 
