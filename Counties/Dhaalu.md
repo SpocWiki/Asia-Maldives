@@ -40,17 +40,17 @@ markerFolder: ./Dhaalu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dhaalu](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Dhaalu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Dhaalu|Dhaalu]] 
 
-### #is_/same_as :: [Dhaalu.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Dhaalu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Dhaalu.public|Dhaalu.public]] 
 
-### #is_/same_as :: [Dhaalu.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Dhaalu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Dhaalu.internal|Dhaalu.internal]] 
 
-### #is_/same_as :: [Dhaalu.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Dhaalu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Dhaalu.protect|Dhaalu.protect]] 
 
-### #is_/same_as :: [Dhaalu.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Dhaalu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Dhaalu.private|Dhaalu.private]] 
 
-### #is_/same_as :: [Dhaalu.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Dhaalu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Dhaalu.personal|Dhaalu.personal]] 
 
-### #is_/same_as :: [Dhaalu.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Dhaalu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Dhaalu.secret|Dhaalu.secret]] 
 

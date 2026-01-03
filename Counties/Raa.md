@@ -39,17 +39,17 @@ markerFolder: ./Raa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Raa](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Raa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Raa|Raa]] 
 
-### #is_/same_as :: [Raa.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Raa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Raa.public|Raa.public]] 
 
-### #is_/same_as :: [Raa.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Raa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Raa.internal|Raa.internal]] 
 
-### #is_/same_as :: [Raa.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Raa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Raa.protect|Raa.protect]] 
 
-### #is_/same_as :: [Raa.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Raa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Raa.private|Raa.private]] 
 
-### #is_/same_as :: [Raa.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Raa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Raa.personal|Raa.personal]] 
 
-### #is_/same_as :: [Raa.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Raa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Raa.secret|Raa.secret]] 
 

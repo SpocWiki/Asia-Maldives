@@ -40,17 +40,17 @@ markerFolder: ./Addu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Addu](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Addu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Addu|Addu]] 
 
-### #is_/same_as :: [Addu.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Addu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Addu.public|Addu.public]] 
 
-### #is_/same_as :: [Addu.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Addu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Addu.internal|Addu.internal]] 
 
-### #is_/same_as :: [Addu.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Addu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Addu.protect|Addu.protect]] 
 
-### #is_/same_as :: [Addu.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Addu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Addu.private|Addu.private]] 
 
-### #is_/same_as :: [Addu.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Addu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Addu.personal|Addu.personal]] 
 
-### #is_/same_as :: [Addu.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Addu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Addu.secret|Addu.secret]] 
 

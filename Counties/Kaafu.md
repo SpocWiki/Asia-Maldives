@@ -40,17 +40,17 @@ markerFolder: ./Kaafu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kaafu](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Kaafu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Kaafu|Kaafu]] 
 
-### #is_/same_as :: [Kaafu.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Kaafu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Kaafu.public|Kaafu.public]] 
 
-### #is_/same_as :: [Kaafu.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Kaafu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Kaafu.internal|Kaafu.internal]] 
 
-### #is_/same_as :: [Kaafu.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Kaafu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Kaafu.protect|Kaafu.protect]] 
 
-### #is_/same_as :: [Kaafu.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Kaafu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Kaafu.private|Kaafu.private]] 
 
-### #is_/same_as :: [Kaafu.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Kaafu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Kaafu.personal|Kaafu.personal]] 
 
-### #is_/same_as :: [Kaafu.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Kaafu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Kaafu.secret|Kaafu.secret]] 
 

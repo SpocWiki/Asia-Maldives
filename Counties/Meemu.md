@@ -40,17 +40,17 @@ markerFolder: ./Meemu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meemu](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Meemu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Meemu|Meemu]] 
 
-### #is_/same_as :: [Meemu.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Meemu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Meemu.public|Meemu.public]] 
 
-### #is_/same_as :: [Meemu.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Meemu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Meemu.internal|Meemu.internal]] 
 
-### #is_/same_as :: [Meemu.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Meemu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Meemu.protect|Meemu.protect]] 
 
-### #is_/same_as :: [Meemu.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Meemu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Meemu.private|Meemu.private]] 
 
-### #is_/same_as :: [Meemu.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Meemu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Meemu.personal|Meemu.personal]] 
 
-### #is_/same_as :: [Meemu.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Meemu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Meemu.secret|Meemu.secret]] 
 

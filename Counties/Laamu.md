@@ -40,17 +40,17 @@ markerFolder: ./Laamu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Laamu](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Laamu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Laamu|Laamu]] 
 
-### #is_/same_as :: [Laamu.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Laamu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Laamu.public|Laamu.public]] 
 
-### #is_/same_as :: [Laamu.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Laamu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Laamu.internal|Laamu.internal]] 
 
-### #is_/same_as :: [Laamu.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Laamu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Laamu.protect|Laamu.protect]] 
 
-### #is_/same_as :: [Laamu.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Laamu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Laamu.private|Laamu.private]] 
 
-### #is_/same_as :: [Laamu.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Laamu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Laamu.personal|Laamu.personal]] 
 
-### #is_/same_as :: [Laamu.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Laamu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Laamu.secret|Laamu.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Alifu_Alifu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alifu_Alifu](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Alifu_Alifu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Alifu_Alifu|Alifu_Alifu]] 
 
-### #is_/same_as :: [Alifu_Alifu.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Alifu_Alifu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Alifu_Alifu.public|Alifu_Alifu.public]] 
 
-### #is_/same_as :: [Alifu_Alifu.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Alifu_Alifu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Alifu_Alifu.internal|Alifu_Alifu.internal]] 
 
-### #is_/same_as :: [Alifu_Alifu.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Alifu_Alifu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Alifu_Alifu.protect|Alifu_Alifu.protect]] 
 
-### #is_/same_as :: [Alifu_Alifu.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Alifu_Alifu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Alifu_Alifu.private|Alifu_Alifu.private]] 
 
-### #is_/same_as :: [Alifu_Alifu.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Alifu_Alifu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Alifu_Alifu.personal|Alifu_Alifu.personal]] 
 
-### #is_/same_as :: [Alifu_Alifu.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Alifu_Alifu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Alifu_Alifu.secret|Alifu_Alifu.secret]] 
 

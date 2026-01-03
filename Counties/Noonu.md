@@ -40,17 +40,17 @@ markerFolder: ./Noonu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Noonu](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Noonu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Noonu|Noonu]] 
 
-### #is_/same_as :: [Noonu.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Noonu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Noonu.public|Noonu.public]] 
 
-### #is_/same_as :: [Noonu.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Noonu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Noonu.internal|Noonu.internal]] 
 
-### #is_/same_as :: [Noonu.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Noonu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Noonu.protect|Noonu.protect]] 
 
-### #is_/same_as :: [Noonu.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Noonu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Noonu.private|Noonu.private]] 
 
-### #is_/same_as :: [Noonu.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Noonu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Noonu.personal|Noonu.personal]] 
 
-### #is_/same_as :: [Noonu.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Noonu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives/Counties/Noonu.secret|Noonu.secret]] 
 
