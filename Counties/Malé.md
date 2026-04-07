@@ -26,26 +26,26 @@ layout:
 publishDate:
 expiryDate:
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Kaohsiung,181557]]"
-  - "[[_Standards/WikiData/WD~Djibouti_City,3604]]"
-  - "[[_Standards/WikiData/WD~Colombo,35381]]"
-part_of: "[[_Standards/WikiData/WD~Kaafu_Atoll,1468407]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kaafu_Atoll,1468407]]"
+  - "[[_Standards/WikiData/WD~Kaohsiung,181557|WD~Kaohsiung,181557]]"
+  - "[[_Standards/WikiData/WD~Djibouti_City,3604|WD~Djibouti_City,3604]]"
+  - "[[_Standards/WikiData/WD~Colombo,35381|WD~Colombo,35381]]"
+part_of: "[[_Standards/WikiData/WD~Kaafu_Atoll,1468407|WD~Kaafu_Atoll,1468407]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kaafu_Atoll,1468407|WD~Kaafu_Atoll,1468407]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~first_level_administrative_division,10864048]]"
-  - "[[_Standards/WikiData/WD~largest_city,51929311]]"
-  - "[[_Standards/WikiData/WD~national_capital,108178728]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-head_of_government: "[[_Standards/WikiData/WD~Adam_Azim,124415517]]"
+  - "[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
+  - "[[_Standards/WikiData/WD~first_level_administrative_division,10864048|WD~first_level_administrative_division,10864048]]"
+  - "[[_Standards/WikiData/WD~largest_city,51929311|WD~largest_city,51929311]]"
+  - "[[_Standards/WikiData/WD~national_capital,108178728|WD~national_capital,108178728]]"
+  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+head_of_government: "[[_Standards/WikiData/WD~Adam_Azim,124415517|WD~Adam_Azim,124415517]]"
 coordinate_location: Point(73.508333333 4.175)
 inception: 0500-01-01T00:00:00Z
-capital_of: "[[_Standards/WikiData/WD~Maldives,826]]"
-country: "[[_Standards/WikiData/WD~Maldives,826]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+05_00,6806]]"
-official_language: "[[_Standards/WikiData/WD~Divehi,32656]]"
+capital_of: "[[_Standards/WikiData/WD~Maldives,826|WD~Maldives,826]]"
+country: "[[_Standards/WikiData/WD~Maldives,826|WD~Maldives,826]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+05_00,6806|WD~UTC+05_00,6806]]"
+official_language: "[[_Standards/WikiData/WD~Divehi,32656|WD~Divehi,32656]]"
 elevation_above_sea_level: 2
 area: 5.8
 OmegaWiki_Defined_Meaning: "1001131"

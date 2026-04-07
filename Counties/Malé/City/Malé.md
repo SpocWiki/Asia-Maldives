@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::4.166667] 
 [name::Malé] 
 State ::  
-Country :: [[../../../../Maldives]]  
+Country :: [[../../../../Maldives|Maldives]]  
 [StateId::] 
 [Population::] 
 [Unknown::32] 
