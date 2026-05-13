@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Gaafu_Alifu/
 markerFolder: ./Gaafu_Alifu/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

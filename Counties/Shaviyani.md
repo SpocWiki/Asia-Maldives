@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Shaviyani/
 markerFolder: ./Shaviyani/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

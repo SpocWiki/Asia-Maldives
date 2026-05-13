@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Haa_Alifu/
 markerFolder: ./Haa_Alifu/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

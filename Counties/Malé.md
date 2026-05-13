@@ -89,7 +89,7 @@ geojsonFolder: ./Malé/
 markerFolder: ./Malé/
 coordinates: [[Malé]] 
 markerFile: [[Malé]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

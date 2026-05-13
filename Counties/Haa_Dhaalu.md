@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Haa_Dhaalu/
 markerFolder: ./Haa_Dhaalu/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

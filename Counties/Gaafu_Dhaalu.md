@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Gaafu_Dhaalu/
 markerFolder: ./Gaafu_Dhaalu/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
