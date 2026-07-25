@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 马尔代夫共和国
 dv_UNTERM_French_Formal: la République des Maldives
 dv_UNTERM_Russian: Мальдивские Острова
 dv_UNTERM_Russian_Formal: Мальдивская Республика
-dv_Region_Name: '[[../../Asia|Asia]]'
+dv_Region_Name: '[[../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Maldives]]'
 dv_Sub-region_Name: '[[Southern Asia]]'
 dv_Region: 142
@@ -53,7 +53,7 @@ dv_ISO2: MV
 dv_ISO3: MDV
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Maldives,826|WD~Maldives,826]]'
+  - '[[../../../../../WikiData/WD~Maldives,826|WD~Maldives,826]]'
   - '[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives|Maldives]]'
   - '[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives.public|Maldives.public]]'
   - '[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives.internal|Maldives.internal]]'
@@ -336,16 +336,16 @@ dv_has_:
 dv_has_name_de: Malediven
 dv_Area-Total: 298
 dv_Area-Land: 300
-dv_has_place_continent: '[[../../Asia|Asia]]'
+dv_has_place_continent: '[[../../../Asia|Asia]]'
 dv_VehicleCode: MV
-dv_Capital: '[[Maldives/Counties/Malé/City/Malé|Malé]]'
+dv_Capital: '[[Counties/Malé/City/Malé|Malé]]'
 dv_Alcohol-l: 0.8
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 73.5
 dv_has_place_latitude: 4.16667
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Maldives,826|WD~Maldives,826]]'
+- '[[../../../../../WikiData/WD~Maldives,826|WD~Maldives,826]]'
 - '[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives|Maldives]]'
 - '[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives.public|Maldives.public]]'
 - '[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives.internal|Maldives.internal]]'
@@ -871,7 +871,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Maldives/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -891,7 +891,7 @@ markerFile: [[Maldives]]
 
 ```leaflet
 id: Maldives_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -917,10 +917,10 @@ Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
-![[Maldives/Emblem_of_Maldives.svg|350]]  
+![[Emblem_of_Maldives.svg|350]]  
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Maldives.mp3|Anthem-Maldives.mp3]]
-![[Maldives/Flag_of_Maldives.svg|350]]  
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Maldives.mp3|Anthem-Maldives.mp3]]
+![[Flag_of_Maldives.svg|350]]  
 
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
